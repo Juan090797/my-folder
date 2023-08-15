@@ -1,0 +1,6 @@
+<inicio>
+obtener datos de venta
+obtener datos de tienda = 'LIMA'
+generar indicadores
+exportar muestra en excel
+<fin>
